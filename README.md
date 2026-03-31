@@ -31,7 +31,8 @@ AI가 자기소개서를 자동으로 개선해주는 시스템입니다.
 - 최종 에이전트 → 모든 정보를 종합하여 최종 자기소개서 생성
 
 ## 🏗️ 시스템 구조
-
+<pre>
+<b>Fin-Care-Customer-Churn/</b>
 ai-resume-agent/
 │
 ├── main.py
@@ -48,7 +49,7 @@ ai-resume-agent/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
+<pre>
 
 ## 🚀 주요 기능
 
