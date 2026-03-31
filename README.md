@@ -36,16 +36,15 @@ User Input
 │
 ▼
 Parallel Agent
-│
-├── company_agent (기업 정보)
-├── news_agent (뉴스 분석)
-└── resume_agent (자기소개서 수정)
+├── company_agent
+├── news_agent
+└── resume_agent
 │
 ▼
 Final Agent
 │
 ▼
-최종 자기소개서 출력
+Final Resume Output
 
 
 ## 🚀 주요 기능
