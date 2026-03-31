@@ -32,8 +32,7 @@ AI가 자기소개서를 자동으로 개선해주는 시스템입니다.
 
 ## 🏗️ 시스템 구조
 <pre>
-<b>Fin-Care-Customer-Churn/</b>
-ai-resume-agent/
+<b>ai-resume-agent/</b>
 │
 ├── main.py
 │
