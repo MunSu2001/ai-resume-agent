@@ -32,19 +32,21 @@ AI가 자기소개서를 자동으로 개선해주는 시스템입니다.
 
 ## 🏗️ 시스템 구조
 
+```
 User Input
-   │
-   ▼
+│
+▼
 [ Parallel Agent ]
-   ├── company_agent
-   ├── news_agent
-   └── resume_agent
-   │
-   ▼
+├── company_agent (기업 정보 수집)
+├── news_agent (뉴스 분석)
+└── resume_agent (자기소개서 수정)
+│
+▼
 [ Final Agent ]
-   │
-   ▼
+│
+▼
 Final Resume Output
+```
 
 
 ## 🚀 주요 기능
