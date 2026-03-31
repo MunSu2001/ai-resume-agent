@@ -54,6 +54,7 @@ Sequential Agent + Parallel Agent 구조를 사용
                ▼
      최종 자기소개서 출력
 
+
 ## 🚀 주요 기능
 
 - 자기소개서 자동 첨삭
