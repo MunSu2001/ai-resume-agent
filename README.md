@@ -50,7 +50,7 @@ ai-resume-agent/
 ├── README.md
 └── .gitignore
 
-  <pre>
+</pre>
 
 ## 🚀 주요 기능
 
